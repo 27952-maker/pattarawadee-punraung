@@ -6,4 +6,10 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+
+score = int(input("99"))
+if score = ("score=50"):
+ print("Pass")
+else :
+score = ("score<50")
+ print("fail")
