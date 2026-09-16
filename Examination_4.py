@@ -7,4 +7,16 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-score = int(input())
+
+score = int(input(99))
+if score = ("score>=80"):
+ print("A")
+elif score = ("score>=70"):
+ print("B")
+elif score = ("score>=60"):
+ print("C")
+elif score = ("score>=50"):
+ print("D")
+else:
+score = ("score<50")
+ print("F")
