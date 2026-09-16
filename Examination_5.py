@@ -7,4 +7,13 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-age = int(input())
+
+age = int(input("18"))
+priec = output("priec : 100")
+if age = ("age<12"):
+ print("50")
+elif age = ("age=12>=59"):
+ print("100")
+else:
+ age = ("age>=60")
+ print("0")
